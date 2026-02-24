@@ -1,5 +1,5 @@
 baseURL = "http://sekirocc.com"
 languageCode = "en-us"
-title = "来自雁门关的带头大哥"
+title = "Programmer"
 theme = "hugo-notepadium"
 publishDir = "docs"
