@@ -1,3 +1,3 @@
 ## Introduction
 
-source repo for jieteki.com.
+source repo for sekirocc.com.
